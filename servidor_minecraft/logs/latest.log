@@ -651,3 +651,81 @@ Things may not work well.
 [15Dec2024 05:04:14.459] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
 [15Dec2024 05:04:14.459] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
 [15Dec2024 05:04:14.460] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 05:05:14.568] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 05:05:14.569] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 05:05:14.569] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 05:05:14.571] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 05:05:17.717] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@281576eb
+[15Dec2024 05:05:17.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Farimuz[/127.22.253.32:57249] logged in with entity id 515 at (-92.29675955330993, 130.73866647878435, -97.8436727154103)
+[15Dec2024 05:05:17.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farimuz joined the game
+[15Dec2024 05:05:17.749] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: Farimuz, id: 515
+[15Dec2024 05:05:17.750] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: onPlayerJoined fired from ConfigVanillaServerEvents
+[15Dec2024 05:05:17.751] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
+[15Dec2024 05:06:14.464] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 05:06:14.465] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 05:06:14.466] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 05:06:14.466] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 05:07:14.462] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 05:07:14.462] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 05:07:14.463] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 05:07:14.464] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 05:08:14.462] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 05:08:14.462] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 05:08:14.463] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 05:08:14.463] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 05:09:14.464] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 05:09:14.466] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 05:09:14.466] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 05:09:14.467] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 05:09:52.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Farimuz: Set the time to 15474]
+[15Dec2024 05:10:08.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farimuz lost connection: Disconnected
+[15Dec2024 05:10:08.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farimuz left the game
+[15Dec2024 05:10:08.861] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged out: Farimuz, id: 515
+[15Dec2024 05:10:14.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 05:10:14.540] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 05:10:14.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 05:10:14.541] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 05:10:53.860] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10adaa83
+[15Dec2024 05:10:53.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Farimuz[/127.22.253.32:53159] logged in with entity id 599 at (-97.52100734518183, 130.73866647878435, -104.76824980488583)
+[15Dec2024 05:10:53.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farimuz joined the game
+[15Dec2024 05:10:53.890] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: Farimuz, id: 599
+[15Dec2024 05:10:53.890] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: onPlayerJoined fired from ConfigVanillaServerEvents
+[15Dec2024 05:10:53.891] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
+[15Dec2024 05:11:14.462] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 05:11:14.462] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 05:11:14.463] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 05:11:14.463] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 05:11:24.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Farimuz lost connection: Disconnected
+[15Dec2024 05:11:24.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farimuz left the game
+[15Dec2024 05:11:24.861] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged out: Farimuz, id: 599
+[15Dec2024 05:12:14.460] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 05:12:14.461] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 05:12:14.461] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 05:12:14.462] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 05:13:14.459] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 05:13:14.460] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 05:13:14.460] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 05:13:14.461] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 05:13:37.760] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@41a367ca
+[15Dec2024 05:13:37.763] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Farimuz[/127.22.253.32:45361] logged in with entity id 668 at (-97.52100734518183, 130.73866647878435, -104.76824980488583)
+[15Dec2024 05:13:37.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Farimuz joined the game
+[15Dec2024 05:13:37.788] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Player logged in: Farimuz, id: 668
+[15Dec2024 05:13:37.788] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: onPlayerJoined fired from ConfigVanillaServerEvents
+[15Dec2024 05:13:37.789] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Synced 0 buildings with player logged in
+[15Dec2024 05:14:02.183] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResearchSaveData.save
+[15Dec2024 05:14:02.185] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: saved 0 researchItems in serverevents
+[15Dec2024 05:14:02.185] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: RTSPlayerSaveData.save
+[15Dec2024 05:14:02.186] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 05:14:02.186] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: NetherZoneSaveData.save
+[15Dec2024 05:14:02.187] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: saved 0 netherzones in serverevents
+[15Dec2024 05:14:02.187] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 05:14:02.188] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 05:14:02.189] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: TargetResourcesSaveData.save
+[15Dec2024 05:14:02.192] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 gatherTargets
+[15Dec2024 05:14:02.192] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
+[15Dec2024 05:14:02.193] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResearchSaveData.save
+[15Dec2024 05:14:02.193] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: saved 0 researchItems in serverevents
+[15Dec2024 05:14:14.461] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: UnitSaveData.save
+[15Dec2024 05:14:14.462] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: Saved 0 units
+[15Dec2024 05:14:14.463] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: BuildingSaveData.save
+[15Dec2024 05:14:14.463] [Server thread/INFO] [com.solegendary.reignofnether.ReignOfNether/]: ResourcesSaveData.save
